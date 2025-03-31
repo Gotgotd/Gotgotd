@@ -20,7 +20,7 @@ Si vous êtes curieux des projets faits à l'école 42, vous pouvez les découvr
 | **cub3d**        | Raycasting 3D game engine      | [cub3d](https://github.com/Gotgotd/cub3D) |
 | **minishell**    | Building a basic shell        | [minishell](https://github.com/Gotgotd/minishell) |
 | **Philosophers** | Concurrency and threading      | [Philosophers](https://github.com/Gotgotd/philosophers) |
-| **So Long**      | using graphic library in a simple 2D videogame   | [so_long](https://github.com/Gotgotd/so_long) |
+| **So Long**      | Using a graphic library building a simple 2D videogame   | [so_long](https://github.com/Gotgotd/so_long) |
 | **push_swap**    | Sorting algorithm challenge    | [push_swap](https://github.com/Gotgotd/push_swap) |
 | **pipex**        | Handling Unix pipes            | [pipex](https://github.com/Gotgotd/pipex) |
 | **get_next_line** | Read a line from a file descriptor | [get_next_line](https://github.com/Gotgotd/get_next_line) |
