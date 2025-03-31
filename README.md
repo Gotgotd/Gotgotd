@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Gautier, currently a student at École 42 Perpignan and a former sales professional who decided to transition into programming. I’m now reaching the end of my studies and looking to continue this learning journey in a professional environment.
+I’m Gautier, currently a student at École 42 Perpignan and a former Business Developper/Account Manager who decided to transition into programming. I’m now reaching the end of my studies and looking to continue this learning journey in a professional environment.
 
 If you're curious about the projects completed at École 42, you can explore them in the table below. Constructive feedback is always welcome!
 
